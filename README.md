@@ -4,14 +4,14 @@ Los reactos son ejercicios para practicar las habilidades de codeo.
 
 Se llaman así por sus siglas que representan lo siguiente:
 
-``
+
 Repetir
 Ejemplo
 Aproximación
 Codear
 Testear
 Optimizar
-``
+
 
 #### Repetir
 Durante esta etapa, encargate de repetir el problema hasta haberlo entendido. No deberías pasar a la siguente sección si no tenés la seguridad haber comprendido el desafío al 100%.
